@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "title": "khadi",
+      "status": false,
+      "detail": "kuch bhi to nahi",
+      "id": 14
+    },
+    {
+      "title": "khadi",
+      "status": false,
+      "detail": "",
+      "id": 15
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
